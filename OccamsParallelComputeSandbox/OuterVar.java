@@ -1,4 +1,5 @@
-package immutable.occamsopenclsandbox;
+/** Ben F Rayfield offers this software opensource MIT license */
+package immutable.OccamsParallelComputeSandbox;
 
 /** This comment moved from Var.
 A CLMem that can be used by multiple ndrange kernel calls

@@ -1,4 +1,5 @@
-package immutable.occamsopenclsandbox;
+/** Ben F Rayfield offers this software opensource MIT license */
+package immutable.OccamsParallelComputeSandbox;
 
 /** a forest of Kernels, to be done potentially all at once in opencl
 before returning to CPU, for extremely lower lag (20 times less lag for example).

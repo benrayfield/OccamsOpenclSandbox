@@ -1,4 +1,5 @@
-package immutable.occamsopenclsandbox;
+/** Ben F Rayfield offers this software opensource MIT license */
+package immutable.OccamsParallelComputeSandbox;
 
 /** A Mem (defines which vars and their types) and ControlFlow
 define the work to be done in an opencl ndrange kernel.

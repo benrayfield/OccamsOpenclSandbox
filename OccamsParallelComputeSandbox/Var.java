@@ -1,4 +1,5 @@
-package immutable.occamsopenclsandbox;
+/** Ben F Rayfield offers this software opensource MIT license */
+package immutable.OccamsParallelComputeSandbox;
 
 /** UPDATE: var is int. These are static funcs about it.
 Any var in an opencl ndrange kernel.

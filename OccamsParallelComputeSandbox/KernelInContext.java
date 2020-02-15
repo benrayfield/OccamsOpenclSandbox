@@ -1,4 +1,5 @@
-package immutable.occamsopenclsandbox;
+/** Ben F Rayfield offers this software opensource MIT license */
+package immutable.OccamsParallelComputeSandbox;
 import java.util.Map;
 
 public class KernelInContext{
